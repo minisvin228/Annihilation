@@ -1,0 +1,5 @@
+name: Annihilation
+version: '${project.version}'
+main: me.minisvin228.annihilation.Annihilation
+api-version: 1.19
+authors: [ minisvin228 ]
